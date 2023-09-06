@@ -707,7 +707,7 @@ body {
 }
 
 .tp-caption.light-100 {
-    color: #ffffff;
+    color: #4b4e53;
     font-family: Lato, Arial, Helvetica, sans-serif;
     font-size: 32px;
     line-height: 32px;
@@ -716,20 +716,18 @@ body {
 
 
 .tp-caption.dark-light-32 {
-    color: #d1d1d1;
+    color: #4b4e53;
     font-family: Lato, Arial, Helvetica, sans-serif;
     font-size: 32px;
     line-height: 32px;
-    text-shadow: 0px 70px 70px rgb(0, 0, 0);
     font-weight: 300
 }
 
 .tp-caption.dark-black-100 {
-    color: #ffffff;
+    color: #4b4e53;
     font-family: Lato, Arial, Helvetica, sans-serif;
     font-size: 100px;
     line-height: 100px;
-    text-shadow: 0px 70px 70px rgb(0, 0, 0);
     font-weight: 900;
     
 }
@@ -745,7 +743,7 @@ body {
 .slider-1-cap-line {
     height: 3px;
     width: 100px;
-    background-color: #ffffff
+    background-color: #4b4e53;
 }
 
 .slider-bg-white-cap {
